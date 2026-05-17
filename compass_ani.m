@@ -1,9 +1,11 @@
-% numerically simulating compass system with compass_Eu.m or compass_RK4.m
-% first
+% !
+% Run numerically simulating compass system with compass_Eu.m or compass_RK4.m before running this file.
+% It need data from those program.
+% !
 
 % Animation of the chaotic compass system
-% Ctrl+c to terminate, close the figure window after terminating to prevent
-% figure error
+
+% Ctrl+c to terminate, close the figure window after terminating to prevent figure error
 
 if ismember({'Odiv','tot_ts','b2_peri_ts','tau','theta','b1','b2','wetau','delta'},who) == ones(1,9) % check the existence of needed variables
     t_ani_st = 100; % system time of starting animation
