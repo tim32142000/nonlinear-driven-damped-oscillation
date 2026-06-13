@@ -6,13 +6,13 @@
 
 <br><br>
 
-### Equation of motion:
+## Rescaled equation of motion
 
 $$\frac{d^2\theta}{dT^2}=-\gamma\frac{d\theta}{dT}-b_1\sin\theta+b_2\cos\theta\cos (2\pi T)$$
 
 ---
 
-## Bifurcation diagram showing the coexistence of attractors
+## Bifurcation diagram for a specific set of initial conditions
 
 <img src="./images/BifEuThAveIniTh0Btwo80(90)_0.1_120.png" >
 
