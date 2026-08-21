@@ -8,9 +8,13 @@
 
 ## Rescaled equation of motion
 
-$$\frac{d^2\theta}{dT^2}=-\gamma\frac{d\theta}{dT}-b_1\sin\theta+b_2\cos\theta\cos (2\pi T)$$
 
-This project use $\gamma = 6.0, b_1 = 36.0$ .
+$\frac{d^2\theta}{dT^2}=-\gamma\frac{d\theta}{dT}-b_1\sin\theta+b_2\cos\theta\cos (2\pi T)$
+
+
+This project uses $\gamma = 6.0, b_1 = 36.0$ .
+
+
 
 ---
 
