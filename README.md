@@ -28,19 +28,19 @@ This project uses $\gamma = 6.0, b_1 = 36.0$ .
 
 ### $\theta-t$ plot
 
-<img src="./images/Btwo95.00(2period-1)/ThTBtwo95.00.png" height="300">
+<img src="./images/Btwo095.00(2period-1)/ThTBtwo95.00.png" height="300">
 
 ---
 
 ### 2D projection of the phase space
 
-<img src="./images/Btwo95.00(2period-1)/OmeThBtwo95.00.png" height="300">
+<img src="./images/Btwo095.00(2period-1)/OmeThBtwo95.00.png" height="300">
 
 ---
 
 ### Basins of attraction
 
-<img src="./images/Btwo95.00(2period-1)/OmeZeThZeBtwo95.00.png" height="300">
+<img src="./images/Btwo095.00(2period-1)/OmeZeThZeBtwo95.00.png" height="300">
 
 ---
 
