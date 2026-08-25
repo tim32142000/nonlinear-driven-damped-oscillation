@@ -18,9 +18,10 @@ This project uses $\gamma = 6.0, b_1 = 36.0$ .
 
 ---
 
-## Bifurcation diagram for a specific set of initial conditions
+## Bifurcation diagram for specific initial conditions
 
 <img src="./images/BifEuThAveIniTh0Btwo80(90)_0.1_120.png" >
+
 
 ---
 
@@ -41,11 +42,12 @@ This project uses $\gamma = 6.0, b_1 = 36.0$ .
 ### Animation of two oscillation states
 
 Black arrow is total magnetic field.  
-Red and blue arrows are two needle.
+Red arrow is period-$1^+$ oscillation in animation.  
+Blue arrows is period-$1^-$ oscillation in animation.
 
-<img src="./images/Btwo095.00(2period-1)/Eu_Btwo95.00IniTh.25_Video.gif" height="300">
+<img src="./images/Btwo095.00(2period-1)/Eu_Btwo95.00IniTh.25_Video.gif" height="200">
 
-<img src="./images/Btwo095.00(2period-1)/Eu_Btwo95.00IniTh0_Video.gif" height="300">
+<img src="./images/Btwo095.00(2period-1)/Eu_Btwo95.00IniTh0_Video.gif" height="200">
 
 
 ---
@@ -56,3 +58,5 @@ Red and blue arrows are two needle.
 
 ---
 
+
+## $b_2=103.2$
