@@ -45,12 +45,6 @@ This project uses $\gamma = 6.0, b_1 = 36.0$ .
 
 ---
 
-### 2D projection of the phase space
-
-<img src="./images/Btwo095.00(2period-1)/OmeThBtwo95.00.png" height="300">
-
----
-
 ### Animation of two oscillation states
 
 Black arrow is total magnetic field.  
@@ -61,6 +55,11 @@ Blue arrows is period- $1^-$ oscillation in animation.
 
 <img src="./images/Btwo095.00(2period-1)/Eu_Btwo95.00IniTh0_Video.gif" height="300">
 
+---
+
+### 2D projection of the phase space
+
+<img src="./images/Btwo095.00(2period-1)/OmeThBtwo95.00.png" height="300">
 
 ---
 
@@ -78,12 +77,6 @@ Blue arrows is period- $1^-$ oscillation in animation.
 
 ---
 
-### 2D projection of the phase space
-
-<img src="./images/Btwo103.20(period-3,5)/OmeThBtwo103.20_7.png" height="300">
-
----
-
 ### Animation of two oscillation states
 
 Black arrow is total magnetic field.  
@@ -94,6 +87,11 @@ Blue arrows is period- $5$ oscillation in animation.
 
 <img src="./images/Btwo103.20(period-3,5)/Eu_Btwo103.20IniTh0_Video.gif" height="300">
 
+---
+
+### 2D projection of the phase space
+
+<img src="./images/Btwo103.20(period-3,5)/OmeThBtwo103.20_7.png" height="300">
 
 ---
 
