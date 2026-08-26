@@ -5,15 +5,15 @@
 <img src="./images/schematic_of_system_3.png" width="200">
 
 ### Physical Setup
-A magnetic needle (represented by $\mu$) is driven by a combined magnetic field consisting of two components:  
-- $x$-axis magnetic field: A constant (static) magnetic field denoted as $B_1$ (const.).
-- $y$-axis magnetic field: An oscillating magnetic field given by $B_2 \cos(\omega t)$, which varies periodically in time with an angular frequency $\omega$.
+A magnetic needle (represented by $\mu$ ) is driven by a combined magnetic field consisting of two components:  
+- $x$ -axis magnetic field: A constant (static) magnetic field denoted as $B_1$ (const.).
+- $y$ -axis magnetic field: An oscillating magnetic field given by $B_2 \cos(\omega t)$ , which varies periodically in time with an angular frequency $\omega$ .
 
 ### Dynamics and Motion
 
-As the magnetic dipole $\mu$ interacts with these fields, it forms an angle $\theta$ with the $x$-axis.  
+As the magnetic dipole $\mu$ interacts with these fields, it forms an angle $\theta$ with the $x$ -axis.  
 
-Because the $y$-axis component oscillates ($\cos(\omega t)$), the net magnetic field direction changes periodically.  
+Because the $y$-axis component oscillates ( $\cos(\omega t)$ ), the net magnetic field direction changes periodically.  
 
 This time-dependent driving force exerts a periodic torque on the magnetic needle, causing it to undergo rotational oscillation around its equilibrium position, as indicated by the curved double-headed arrows.
 
